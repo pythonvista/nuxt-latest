@@ -5,16 +5,8 @@
     <NuxtLayout>
 
       <NuxtPage />
-      {{ $pwa }}
-      <div>
-        <span>
-          New content available, click on reload button to update.
-        </span>
-
-        <button @click="$pwa.updateServiceWorker()">
-          Reload
-        </button>
-      </div>
+     
+    
     </NuxtLayout>
 
   </div>
