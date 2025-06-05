@@ -1,8 +1,11 @@
 <!-- App.vue -->
 <template>
   <div>
-    <HomeSidebar></HomeSidebar>
+    <HomeLanding></HomeLanding>
   </div>
+
+
+  
 </template>
 
 <script>
